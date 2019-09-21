@@ -11,7 +11,8 @@ npm i -g esky-mock //你也可以安装在你的项目的根目录下
 ```c
 // 举例：项目根目录创建mock
 
-// 配置文件 mock/conf.js
+// 配置文件 
+//mock/config.js
 module.exports =  {
   // 请求默认的延迟时间
   delay: 300,
